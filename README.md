@@ -9,6 +9,7 @@ Teko Solution
 
 ### Data mining and analysis in Decentralized Finance
 Client: Faculty of Finance & Banking - UEB - VNU
+
 Result: [The determinants of funding liquidity risk in decentralized lending](https://www.sciencedirect.com/science/article/pii/S1044028324001273)
 
 ### Developing decentralized applications
