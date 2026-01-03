@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=openVietAnh&label=Profile%20views&color=6272a4&style=flat" alt="profile views" />
-  <a href="https://github.com/openVietAnh?tab=followers">
-    <img src="https://img.shields.io/github/followers/openVietAnh?label=Followers&style=social" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=vietanhrs&label=Profile%20views&color=6272a4&style=flat" alt="profile views" />
+  <a href="https://github.com/vietanhrs?tab=followers">
+    <img src="https://img.shields.io/github/followers/vietanhrs?label=Followers&style=social" alt="GitHub followers">
   </a>
 </p>
 
@@ -118,12 +118,12 @@ const vietAnh = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=openVietAnh&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&icon_color=ff79c6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=openVietAnh&theme=dracula&hide_border=true&background=1a1b27&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vietanhrs&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&icon_color=ff79c6" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vietanhrs&theme=dracula&hide_border=true&background=1a1b27&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openVietAnh&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhrs&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9" />
 </p>
 
 ---
@@ -145,7 +145,7 @@ const vietAnh = {
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/openVietAnh">
+  <a href="https://github.com/vietanhrs">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/tv.anh2k/">
