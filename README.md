@@ -115,19 +115,6 @@ const vietAnh = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vietanhrs&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&icon_color=ff79c6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vietanhrs&theme=dracula&hide_border=true&background=1a1b27&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietanhrs&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9" />
-</p>
-
----
-
 ## ⌨️ Keyboard Enthusiast
 
 ```
