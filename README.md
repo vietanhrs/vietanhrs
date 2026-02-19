@@ -70,6 +70,13 @@ const vietAnh = {
       <sub>Creative Software - Cau Giay District</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/🏅_TOEIC-980_Points-E30022?style=for-the-badge" width="220" />
+      <br/>
+      <sub>English Proficiency Certificate</sub>
+    </td>
+  </tr>
 </table>
 
 ---
