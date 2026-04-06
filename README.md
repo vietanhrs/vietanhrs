@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=4F8CFF&center=true&vCenter=true&width=900&lines=Tr%E1%BA%A7n+Vi%E1%BB%87t+Anh;Solution+Architect+%E2%80%A2+Full-stack+Engineer+%E2%80%A2+Front-end+Specialist;Blockchain+%26+DeFi+Product+Builder;Turning+complex+systems+into+usable+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=4F8CFF&center=true&vCenter=true&width=760&lines=Tr%E1%BA%A7n+Vi%E1%BB%87t+Anh;Solution+Architect;Full-stack+Engineer;Front-end+Specialist;Blockchain+%26+DeFi+Product+Builder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -70,6 +70,7 @@ const vietAnh = {
 
 | Period | Role | Organization | Highlights |
 |--------|------|--------------|------------|
+| Nov 2025 - Present | **Co-founder** | Wins Residence | Venture building, operations, digital presence, and business development |
 | Nov 2022 - Present | **Software Engineer / Blockchain Product Engineer** | Teko Solution | Built and led product delivery across [Danogo](https://app.danogo.io/leverage-trading), [Nio App](https://nioapp.io/), [BTC Grow](https://app.btcgrow.io/stake), and [Tempi](http://tempi.vn) integrations |
 | Apr 2022 - Present | **Data Mining & Analysis in DeFi** | Faculty of Finance & Banking - UEB - VNU | Built data pipelines and research tooling for DAO, governance, lending, and protocol data analysis |
 | Oct 2021 - Oct 2022 | **DApp Developer / Solution Architect** | TVM Digital | Contributed to DApp architecture and implementation, including [OODLZ](https://www.oodlz.io/) |
@@ -124,6 +125,37 @@ const vietAnh = {
       <img src="https://img.shields.io/badge/📜_Coursera-Deep_Learning_Specialization-0056D2?style=for-the-badge" />
       <br/>
       <sub><a href="https://coursera.org/verify/specialization/KBWPAFP973NV">Verify Certificate</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🥈_2nd_Prize-Youth_IT_Competition_2017-C0C0C0?style=for-the-badge" />
+      <br/>
+      <sub>Creative Software - Cau Giay District</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🥉_3rd_Prize-Youth_IT_Competition_2017-CD7F32?style=for-the-badge" />
+      <br/>
+      <sub>Creative Software - Hanoi City</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🥇_1st_Prize-IT_Gifted_Students_2015-DAA520?style=for-the-badge" />
+      <br/>
+      <sub>Cau Giay District Competition</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🥉_3rd_Prize-IT_Gifted_Students_2015-CD7F32?style=for-the-badge" />
+      <br/>
+      <sub>Hanoi City Competition</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/🥉_3rd_Prize-Hanoi_Youth_IT_Competitive_Programming-CD7F32?style=for-the-badge" />
+      <br/>
+      <sub>Secondary school competition achievement</sub>
     </td>
   </tr>
 </table>
