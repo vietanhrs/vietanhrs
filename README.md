@@ -70,7 +70,7 @@ const vietAnh = {
 
 | Period | Role | Organization | Highlights |
 |--------|------|--------------|------------|
-| Nov 2025 - Present | **Co-founder** | Wins Residence | Venture building, operations, digital presence, and business development |
+| Nov 2025 - Present | **Co-founder** | [Wins Residence](https://www.winsresidence.com/) | Venture building, operations, digital presence, and business development |
 | Nov 2022 - Present | **Software Engineer / Blockchain Product Engineer** | Teko Solution | Built and led product delivery across [Danogo](https://app.danogo.io/leverage-trading), [Nio App](https://nioapp.io/), [BTC Grow](https://app.btcgrow.io/stake), and [Tempi](http://tempi.vn) integrations |
 | Apr 2022 - Present | **Data Mining & Analysis in DeFi** | Faculty of Finance & Banking - UEB - VNU | Built data pipelines and research tooling for DAO, governance, lending, and protocol data analysis |
 | Oct 2021 - Oct 2022 | **DApp Developer / Solution Architect** | TVM Digital | Contributed to DApp architecture and implementation, including [OODLZ](https://www.oodlz.io/) |
