@@ -26,26 +26,18 @@ const vietAnh = {
     "Solution Architect",
     "Full-stack Software Engineer",
     "Front-end Specialist",
-    "Blockchain Product Engineer"
   ],
   strengths: [
     "System Design",
     "Front-end Architecture",
     "Micro-frontends",
     "Kotlin/TypeScript Integration",
-    "DeFi Products"
-  ],
-  currentlyBuilding: [
-    "Danogo Float Lending",
-    "Nio App",
-    "BTC Grow",
-    "Internal developer tools"
   ],
   funFact: "I build custom keyboards and enjoy turning hard technical problems into clean product experiences."
 };
 ```
 
-- I build products at the intersection of **system design**, **front-end architecture**, **blockchain**, and **developer experience**.
+- I build products at the intersection of **system design**, **front-end architecture**, and **developer experience**.
 - My sweet spot is translating messy business ideas into **real technical designs**, then shipping them as polished, production-ready products.
 - I enjoy working on both **high-level architecture** and **hands-on implementation**: UI, integration, performance, debugging, release, and iteration.
 
@@ -59,8 +51,6 @@ const vietAnh = {
   - Building complex product flows with React, TypeScript, micro-frontends, SPA/MPA architectures, and performance-focused UI design.
 - **Full-stack Delivery**
   - Working across TypeScript, Kotlin, Node.js, Python, Golang, and Rust to ship complete product experiences.
-- **Blockchain / DeFi Product Development**
-  - Designing and implementing lending, borrowing, wallet integration, transaction flows, alerting, and on-chain/off-chain product features.
 - **Ownership**
   - PIC mindset: tech design, implementation, release coordination, incident investigation, mentoring, and code review.
 
@@ -71,8 +61,8 @@ const vietAnh = {
 | Period | Role | Organization | Highlights |
 |--------|------|--------------|------------|
 | Nov 2025 - Present | **Co-founder** | [Wins Residence](https://www.winsresidence.com/) | Venture building, operations, digital presence, and business development |
-| Nov 2022 - Present | **Software Engineer / Blockchain Product Engineer** | Teko Solution | Built and led product delivery across [Danogo](https://app.danogo.io/leverage-trading), [Nio App](https://nioapp.io/), [BTC Grow](https://app.btcgrow.io/stake), and [Tempi](http://tempi.vn) integrations |
-| Apr 2022 - Present | **Data Mining & Analysis in DeFi** | Faculty of Finance & Banking - UEB - VNU | Built data pipelines and research tooling for DAO, governance, lending, and protocol data analysis |
+| Nov 2022 - June 2026 | **Software Engineer / Blockchain Product Engineer** | Teko Solution | Built and led product delivery across [Danogo](https://app.danogo.io/leverage-trading), [Nio App](https://nioapp.io/), [BTC Grow](https://app.btcgrow.io/stake), and [Tempi](http://tempi.vn) integrations |
+| Apr 2022 - Apr 2026 | **Data Mining & Analysis in DeFi** | Faculty of Finance & Banking - UEB - VNU | Built data pipelines and research tooling for DAO, governance, lending, and protocol data analysis |
 | Oct 2021 - Oct 2022 | **DApp Developer / Solution Architect** | TVM Digital | Contributed to DApp architecture and implementation, including [OODLZ](https://www.oodlz.io/) |
 | Sep 2021 - Jun 2022 | **Blockchain Researcher** | Blockchain Research Lab - UET | Built blockchain prototypes for supply-chain, anti-counterfeiting, and decentralized application research |
 | 2020 - 2022 | **Teaching Assistant / Researcher** | UET | Worked on robotics, ROS/ROS 2, computer vision, and evolutionary deep learning research |
@@ -82,22 +72,14 @@ const vietAnh = {
 ## 🌌 Featured Work
 
 ### 🔷 Product Engineering
-- **[Danogo](https://app.danogo.io/leverage-trading)**
+- **[Danogo](https://app.danogo.io/)**
   - DeFi product engineering, lending/leverage flows, wallet integrations, Kotlin/UI integration, release support, and incident investigation.
 - **[Nio App](https://nioapp.io/)**
   - Front-end architecture, product embedding, tracking, Tempi integration, and user-facing blockchain workflows.
-- **[BTC Grow](https://app.btcgrow.io/stake)**
+- **[BTC Grow](https://app.btcgrow.io/)**
   - Front-end implementation and integration for Bitcoin-related product flows.
 - **[Tempi](http://tempi.vn)**
   - Micro-frontend integration work, reusable UI delivery, and compatibility problem solving across products.
-
-### 🛠 Internal Tools / Builder Energy
-- **Tekapi** — AI-assisted UI + API documentation integration
-- **Tecbor** — Cardano CBOR inspector / visualizer
-- **Tekra** — local Jira desktop/CLI helper for developers
-- **Tekfolio** — review/self-assessment drafting with Jira data + internal LLM
-- **Ogmios.rs** — Rust client/SDK for high-performance Cardano integrations
-
 ---
 
 ## 🏆 Achievements
