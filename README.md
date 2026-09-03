@@ -60,6 +60,7 @@ const vietAnh = {
 
 | Period | Role | Organization | Highlights |
 |--------|------|--------------|------------|
+| Sep 2026 - Present | **Frontend Engineer** | WorldQuant | TBD |
 | Nov 2025 - Present | **Co-founder** | [Wins Residence](https://www.winsresidence.com/) | Venture building, operations, digital presence, and business development |
 | Nov 2022 - June 2026 | **Software Engineer / Blockchain Product Engineer** | Teko Solution | Built and led product delivery across [Danogo](https://app.danogo.io/leverage-trading), [Nio App](https://nioapp.io/), [BTC Grow](https://app.btcgrow.io/stake), and [Tempi](http://tempi.vn) integrations |
 | Apr 2022 - Apr 2026 | **Data Mining & Analysis in DeFi** | Faculty of Finance & Banking - UEB - VNU | Built data pipelines and research tooling for DAO, governance, lending, and protocol data analysis |
